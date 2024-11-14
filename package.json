@@ -1,0 +1,25 @@
+{
+  "name": "typescript_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.9.0",
+    "body-parser": "^1.20.3",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "ts-node": "^10.9.2",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
